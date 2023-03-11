@@ -1,6 +1,6 @@
 # 知乎-search-on-google
 在 google 上加一个仅限 “知乎” 搜索结果的按钮
-A simple userscript that adds a button to your Google searches to show only Reddit posts. You can just click on the button and it will automatically add `site:reddit.com` to your search:
+A simple userscript that adds a button to your Google searches to show only Reddit posts. You can just click on the button and it will automatically add `site:zhihu'.com` to your search:
 
 ![Img](screenshot.png)
 
